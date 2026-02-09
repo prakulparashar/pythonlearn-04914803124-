@@ -31,3 +31,6 @@ I am currently focusing on the "Big Three" libraries for data manipulation and v
 -> Exploratory Data Analysis (EDA) with Pandas
 
 -> Advanced Visualization with Matplotlib/Seaborn
+
+NAME->Prakul Parashar
+ENROLMENT NUMBER-> 04914803124
